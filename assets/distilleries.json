@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title" : "Ripping Yarns Distillery",
+        "description" : "Family run, small batch artisan distillery producing “molasses to glass” Rums in the beautiful Surrey Hills. Best served with family and friends.",
+        "address" : "Unit 65 Coopers Pl, Combe Ln, Wormley, Chiddingfold, Godalming GU8 5SZ",
+        "image" : "/assets/rippingyarns-1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.644410,
+          51.129720
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title" : "Wharf Distillery",
+        "description" : "High quality grain-to-glass spirits with unique Northamptonshire heritage.",
+        "address" : "2 Brackley Rd, Towcester NN12 6DJ",
+        "image" : "/assets/wharf-1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.990780,
+          52.133480
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title" : "Charles & Mike Distilling",
+        "description" : "All of our spirits are made by us in incredibly small batches at our Distillery in the heart of Essex. Our products are hand crafted and copper column distilled with no compromise to quality or taste.",
+        "address" : "Unit 9, Marks Hall, Marks Hall Ln CM6 1QT",
+        "image" : "/assets/charlesandmike-1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.320210,
+          51.778330
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title" : "Ninefold Distillery",
+        "description" : "Ninefold Distillery distils artisanal rum from scratch in the south of Scotland, using sugar cane molasses and our unique recipe. Ninefold Pure Single Rum and Dormont Spiced rums are small batch Scottish products, fermented, distilled, flavoured and bottled in a converted cattle byre on Dormont Estate.",
+        "address" : "Dormont Home Farm, Dalton, Lockerbie DG11 1DJ",
+        "image" : "/assets/ninefold-1.png"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.385780,
+          55.067009
+        ]
+      }
+    }
+  ]
+}
